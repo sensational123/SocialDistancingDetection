@@ -1,1 +1,2 @@
 # SocialDistancingDetection
+Given an Mp4 video file as input, this project identifies people in it using the pre-trained Detectron 2 model of the FAIR (Facebook Artificial Intelligence Research) team. Then the people who are getting closer than a certain threshold are marked and highlighted via red boxes. This project has been built keeping the current COVID-19 pandemic in mind, where social distancing is of utmost importance.  
